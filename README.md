@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student, Developer & Learner!👨🏻‍🎓
+## I'm a Student👨🏻‍🎓, Developer & Learner!💻
 
 - 🔭 I’m currently persuaing B.Tech in IT
 - 🌱 I’m currently learning a lot of stuff😝
