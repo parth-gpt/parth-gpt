@@ -5,7 +5,7 @@
 ## I'm a Student👨🏻‍🎓, Developer & Learner!💻
 
 - 🔭 I’m currently persuaing B.Tech in IT
-- 🌱 I’m currently learning a lot of stuff😝
+- 🌱 I’m currently learning development in Python.
 <!--
 **parth-gpt10/parth-gpt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
