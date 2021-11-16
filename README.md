@@ -4,8 +4,7 @@
 
 ## I'm a Student👨🏻‍🎓, Developer & Learner!💻
 
-- 🔭 I’m currently persuaing B.Tech in IT
-- 🌱 I’m currently learning development in Python.
+I'm a Sophomore at NMIMS, Mumbai
 
 ### Find me around the web🌍:
 - 🧑🏻‍💻 Learning in public on [LinkedIn](https://www.linkedin.com/in/parth-gupta-760b1411b/) 
