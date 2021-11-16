@@ -6,6 +6,12 @@
 
 - 🔭 I’m currently persuaing B.Tech in IT
 - 🌱 I’m currently learning development in Python.
+
+### Find me around the web🌍:
+- 🧑🏻‍💻 Learning in public on [LinkedIn](https://www.linkedin.com/in/parth-gupta-760b1411b/) 
+- 📲 Want a peek👀 on my projects? Landed at the right place - [Github](https://github.com/parth-gpt)
+- 📸 Sharing some beatiful moments✨ on [Instagram: Photography](https://www.instagram.com/theshutterstories_/)
+- 🤵🏻 See more of me on [Instagram: Personal](https://www.instagram.com/parth_gpt/)
 <!--
 **parth-gpt10/parth-gpt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
