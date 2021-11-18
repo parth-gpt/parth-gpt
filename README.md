@@ -1,4 +1,7 @@
-![Parth Gupta](https://user-images.githubusercontent.com/82574933/142490994-0cf8db2e-2dee-492a-8f49-b008b8a3259e.png)
+![Parth Gupta](https://user-images.githubusercontent.com/82574933/142492135-4bd0aed8-78d9-4936-abb4-36a718be0943.png)
+
+
+
 
 
 
@@ -27,4 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=merko)](https://github.com/parth-gpt/github-readme-stats)
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/parth-gpt/github-readme-stats)
