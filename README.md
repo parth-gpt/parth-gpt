@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 ## I'm a Student👨🏻‍🎓, Developer & Learner!💻
 
 I'm a Sophomore at NMIMS, Mumbai
@@ -26,7 +21,8 @@ I'm a Sophomore at NMIMS, Mumbai
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![image](https://user-images.githubusercontent.com/82574933/142500283-4e4130e9-29a1-4282-9775-1baed8cf6845.png)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -42,12 +38,17 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gpt&layout=compact&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
 
 
-
 <p>
-  <a href="https://www.linkedin.com/in/parth-gupta-760b1411b/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/parth-gupta-760b1411b/">
     <img src="https://user-images.githubusercontent.com/82574933/142497894-4d06a074-b115-402d-a224-432ac5c9ecfd.png" style="width:50px;" alt="linkedin">
-  </a> &nbsp; 
+  </a>
+  <a href="https://www.instagram.com/parth_gpt/">
+    <img src="https://user-images.githubusercontent.com/82574933/142499831-49ba0ab5-3c65-4f6f-b93d-a8f72583911d.png" style="width:50px;" alt="instagram">
+  </a>
 </p>
  -->
+ 
+
+
 
 
