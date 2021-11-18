@@ -1,4 +1,5 @@
-![Parth Gupta](https://user-images.githubusercontent.com/82574933/142032706-ce118ece-941d-467f-bc55-eff7de4fb9ab.png)
+![Parth Gupta](https://user-images.githubusercontent.com/82574933/142490657-f4787b61-ea35-4364-a9bd-c7962b730de8.png)
+
 
 
 
