@@ -40,13 +40,14 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://www.linkedin.com/in/parth-gupta-760b1411b/">
-    <img src="https://user-images.githubusercontent.com/82574933/142497894-4d06a074-b115-402d-a224-432ac5c9ecfd.png" style="width:50px;" alt="linkedin">
+    <img src="https://user-images.githubusercontent.com/82574933/142497894-4d06a074-b115-402d-a224-432ac5c9ecfd.png" style="width:3rem;" alt="linkedin">
   </a>
   <a href="https://www.instagram.com/parth_gpt/">
-    <img src="https://user-images.githubusercontent.com/82574933/142499831-49ba0ab5-3c65-4f6f-b93d-a8f72583911d.png" style="width:50px;" alt="instagram">
+    <img src="https://user-images.githubusercontent.com/82574933/142499831-49ba0ab5-3c65-4f6f-b93d-a8f72583911d.png" style="width:3rem" alt="instagram">
   </a>
-</p>
- -->
+</p> -->
+
+
  
 
 
