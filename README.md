@@ -6,27 +6,25 @@
 
 I'm a Sophomore at NMIMS, Mumbai
 
-<img align="right" style="width: 300px;" src="https://user-images.githubusercontent.com/82574933/142659780-f989c85e-5c06-48c2-957a-f1297850f6e0.png">
+<!-- <img align="right" style="width: 300px;" src="https://user-images.githubusercontent.com/82574933/142664206-dd52e0a2-3718-4e9f-b24a-58ff96e0e0ce.png"> -->
 
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
-
-[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=260302&color=f0e785&line=dfa93e)](https://github.com/parth-gpt/github-readme-activity-graph)
-
-
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold&title_color=fff&icon_color=fff)](https://github.com/parth-gpt/github-readme-stats)
 
 
 <!-- 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gpt&layout=compact&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gpt&layout=compact&theme=maroongold&title_color=fff)](https://github.com/parth-gpt/github-readme-stats)
 
 
  -->
 
-### Find me around the web🌍:
-<p>
+[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=260302&color=fff&line=dfa93e)](https://github.com/parth-gpt/github-readme-activity-graph)
+
+
+  <h3 align="center"> Find me around the web🌍: </h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/parth-gupta-760b1411b/">
     <img src="https://user-images.githubusercontent.com/82574933/142631234-5582e68d-3266-456d-ba13-d7b30c351f04.png" style="width:40px;" alt="linkedin">
   </a>
@@ -43,6 +41,7 @@ I'm a Sophomore at NMIMS, Mumbai
     <img src="https://user-images.githubusercontent.com/82574933/142631270-652b0015-8d47-4423-9c7e-783eafc3a133.png" style="width:40px;" alt="github">
   </a>
 </p>
+
 
 
  
