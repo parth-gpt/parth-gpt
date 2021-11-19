@@ -6,25 +6,16 @@
 
 I'm a Sophomore at NMIMS, Mumbai
 
+<img align="right" style="width: 300px;" src="https://user-images.githubusercontent.com/82574933/142659780-f989c85e-5c06-48c2-957a-f1297850f6e0.png">
+
+
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
 
+[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=0d1117&color=f0e785)](https://github.com/parth-gpt/github-readme-activity-graph)
 
 
-<!--
-**parth-gpt10/parth-gpt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![image](https://user-images.githubusercontent.com/82574933/142500283-4e4130e9-29a1-4282-9775-1baed8cf6845.png)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
@@ -55,7 +46,4 @@ Here are some ideas to get you started:
 
 
  
-
-
-
 
