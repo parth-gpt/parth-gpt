@@ -4,16 +4,14 @@
 
 <h2 align="center">I'm a Student👨🏻‍🎓, Developer & Learner!💻</h2>
 
-- I'm a Sophomore at NMIMS, Mumbai. 
-- I am an aspiring developer🧑🏻‍💻 and believe in learning by building projects of my own.
-- Want to sneek a peek👀 on my projects do check my repos.
-- Started with <b>Open Source</b> a while ago and hoping to get along with it.
+I'm a Sophomore at NMIMS, Mumbai. 
 
 <!-- <img align="right" style="width: 300px;" src="https://user-images.githubusercontent.com/82574933/142664206-dd52e0a2-3718-4e9f-b24a-58ff96e0e0ce.png"> -->
 
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold&title_color=fff&icon_color=fff)](https://github.com/parth-gpt/github-readme-stats)
 
+<p align="center">I am an aspiring developer🧑🏻‍💻 and believe in learning by building projects of my own. Want to sneek a peek👀 on my projects do check my repos. Started with <b>Open Source</b> a while ago and hoping to get along with it.</p>
 
 <!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
