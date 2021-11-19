@@ -6,8 +6,9 @@
 
 I'm a Sophomore at NMIMS, Mumbai
 
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
+
 
 <!--
 **parth-gpt10/parth-gpt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
+<!-- 
 
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gpt&layout=compact&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
  -->
