@@ -16,6 +16,9 @@ Parth's GitHub Stats             |  Streaks
 
 <p align="center">I am an aspiring developer🧑🏻‍💻 and believe in learning by building projects of my own. Want to sneek a peek👀 on my projects do check my repos. Started with <b>Open Source</b> a while ago and hoping to get along with it.</p>
 
+
+
+[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=260302&color=fff&line=dfa93e)](https://github.com/parth-gpt/github-readme-activity-graph)
 <!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
 
@@ -24,7 +27,6 @@ Parth's GitHub Stats             |  Streaks
 
  -->
 
-<!-- [![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=260302&color=fff&line=dfa93e)](https://github.com/parth-gpt/github-readme-activity-graph) -->
 
 
   <h3 align="center"> Find me around the web🌍: </h3>
