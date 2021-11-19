@@ -30,22 +30,26 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-gpt&theme=maroongold" width="48%" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-gpt&layout=compact&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
+
+
  -->
 
 ### Find me around the web🌍:
 <p>
   <a href="https://www.linkedin.com/in/parth-gupta-760b1411b/">
-    <img src="https://user-images.githubusercontent.com/82574933/142565219-963a01e8-c529-449d-adf2-798737099b3f.png" style="width:100px; height:100px;" alt="linkedin">
+    <img src="https://user-images.githubusercontent.com/82574933/142631234-5582e68d-3266-456d-ba13-d7b30c351f04.png" style="width:40px;" alt="linkedin">
   </a>
+ &nbsp; &nbsp;
   <a href="https://www.instagram.com/parth_gpt/">
-    <img src="https://user-images.githubusercontent.com/82574933/142565209-9fb1918b-21d6-4337-81e0-b80b388c86e5.png" style="width:100px;" alt="instagram">
+    <img src="https://user-images.githubusercontent.com/82574933/142631171-3a691a5a-f1fb-4134-8033-28d47b54c5ca.png" style="width:40px;" alt="instagram">
   </a>
-  <br>
+ &nbsp; &nbsp;
   <a href="https://www.instagram.com/theshutterstories_/">
-    <img src="https://user-images.githubusercontent.com/82574933/142565557-998050b1-9068-4c13-b1a6-26e046558e0a.png" style="width:100px;" alt="instagram">
+    <img src="https://user-images.githubusercontent.com/82574933/142631247-72627bc6-1149-4bff-93d1-d0c18cc07aa4.png" style="width:40px;" alt="instagram">
   </a>
+ &nbsp; &nbsp;
   <a href="https://github.com/parth-gpt">
-    <img src="https://user-images.githubusercontent.com/82574933/142566010-5f9d3c35-c02b-48c6-b80c-b40082df6bce.png" style="width:100px;" alt="instagram">
+    <img src="https://user-images.githubusercontent.com/82574933/142631270-652b0015-8d47-4423-9c7e-783eafc3a133.png" style="width:40px;" alt="github">
   </a>
 </p>
 
