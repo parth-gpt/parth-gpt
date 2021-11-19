@@ -11,7 +11,7 @@ I'm a Sophomore at NMIMS, Mumbai
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-gpt&count_private=true&show_icons=true&theme=maroongold)](https://github.com/parth-gpt/github-readme-stats)
 
-[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=0d1117&color=f0e785)](https://github.com/parth-gpt/github-readme-activity-graph)
+[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parth-gpt&bg_color=260302&color=f0e785&line=dfa93e)](https://github.com/parth-gpt/github-readme-activity-graph)
 
 
 
