@@ -14,7 +14,7 @@ Parth's GitHub Stats             |  Streaks
 
 
 
-<p align="center">I am an aspiring developer🧑🏻‍💻 and believe in learning by building projects of my own. Want to sneek a peek👀 on my projects do check my repos. Started with <b>Open Source</b> a while ago and hoping to get along with it.</p>
+<p align="center">I am an aspiring developer🧑🏻‍💻 and believe in learning by building projects of my own. Want to sneek a peek👀 on my projects then, do checkout my repos. Started with <b>Open Source</b> a while ago and hoping to get along with it.</p>
 
 
 
