@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">I'm a Student👨🏻‍🎓, Developer & Learner!💻</h2>
+<h2 align="center">I'm a Student👨🏻‍🎓, Developer & a Learner!💻</h2>
 
 I'm a Sophomore at NMIMS, Mumbai. 
 
